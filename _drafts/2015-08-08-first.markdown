@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "First!"
+date:   2015-08-08 00:11:46
+categories: jekyll update
+---
+Getting started is tough. And it's tough in a recursive, seemingly never ending way. All the little obstacles you can forsee when you're starting out add up to one giant looming blank slate.
+
+Take starting a blog for example. Starting a blog, you have to plan how to set up a blog. Self-hosted or not? If so, build it yourself, host it yourself? If not, how to theme it, make it unique? Assuming you know what you'll value in your blog, and what your somewhat limited options are, your questioning will reach a limit and you'll get the mechanics of the blog figured out.
+
+But now you're faced with the important part, the content. What to write about? Who is the audience? How to write about it? These questions are tough because there's no right answer, and the tradeoffs could keep you questioning yourself forever. After addressing these issues, and assuming you've avoided the soul crushing fear driven questions like "What if no one reads it?" then you can finally get started.
+
+With all these questions, it's easy to shy away from starting. I've wanted to start a blog for a while. I think the blog part of my link has said "Coming Soon" for 3 years, and that's just since I got a personal website. But there was always some other side project that I would find to distract myself with instead of trying to answer those questions and move on to the actual writing. But not starting never solved my problems, it just avoided them. When I had ideas for things to write about, I had the lingering problems of starting a blog just to get one new idea out there.
+
+But it doesn't have to be like that. Starting can open the door to so many questions, or it could be just starting. Just picking a piece, and focusing. Like, what's the downside of starting with an ugly blog? The core functionality is the ablility to broadcast your thoughts(personal favorite feature: practicing writing). The content is what matters, so why get hung up on the form? At least once it's started you'll be able to pick concrete things that you don't like.
+
+It's funny that it took so long to actually get going. I'm a big fan of the Agile/Lean methods of small steps with regular adjustment, but for some reason I just never wanted to compromise for anything less than a beautiful blog, preferably pre-filled with great posts. I think I got hung up on the personal attachment that I forgot that's not how progress is made. I forgot that the obstacle is the way, and that worse is better, and that practice makes perfect. Most importantly, I want to make this personal, and there's a lot more character in imperfection than there is in polish.
+
+Welcome to my new blog, "Your awesome title." Hosted on Github pages, with, the default Jekyll theme. No extra bells and whistles. Just starting with a post about starting, and it's already a huge step forward.
