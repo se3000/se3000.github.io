@@ -2,7 +2,6 @@
 layout: post
 title:  "First!"
 date:   2015-08-08 00:11:46
-categories: jekyll update
 ---
 Getting started is tough. It's not just tough, it's tough in a recursive way, a seemingly endless way. All the little obstacles you forsee when you're starting out add up to one big loomingly blank slate.
 
