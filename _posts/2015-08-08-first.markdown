@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "First!"
+date:   2015-08-08 00:11:46
+categories: jekyll update
+---
+Getting started is tough. It's not just tough, it's tough in a recursive way, a seemingly endless way. All the little obstacles you forsee when you're starting out add up to one big loomingly blank slate.
+
+Take starting a blog for example. Starting a blog often takes planning of how to set up a blog. Self-hosted or not? If so, build it yourself and/or host it yourself? To theme or not to theme, custom or prepackaged? Assuming you know what you'll value in your blog, and where to find the options right for you, your questioning will reach a limit and you'll get the mechanics of the blog working.
+
+Now you're faced with the important part, the content. What to write about? Who is the audience? How to present it? These questions are tough because there's no right answer, and the tradeoffs could keep you questioning yourself forever. But somehow, after searching deep within yourself, you get through it. Assuming you've avoided the soul crushing fear driven questions(e.g. What if no one reads it? What if I'm cliche?) then you can finally get started on the process of actually writing.
+
+With all these questions, it's easy to shy away from starting. I've wanted to start a blog for a while. I think the blog section of my site has said "Coming Soon" for 3 years, and that's just since I made a personal website. I wanted to start a blog, but there was always some other side project that I could find to distract me from trying to answer those questions and move on to the actual writing. Not starting never solved my problems, it just avoided them, it even made things worse. When I had ideas for things to write about, I was confronted with the lingering anxiety of starting on top of how to present this new idea.
+
+But it didn't have to be like that. Starting something can open the door to a scary new process, or it could just be starting. Just picking a piece, and focusing. Like, what's the downside of releasing an ugly blog? The core functionality is the ablility to broadcast your thoughts(personal favorite feature: practicing writing). The content is what matters, so why get hung up on the form? At least once it's started you'll be able to pick concrete things that you don't like, instead of thinking of vaguely useful "improvements" to something that doesn't exist.
+
+It's funny that it took so long to actually get this going. I'm a big fan of the Agile/Lean methods: small steps with regular adjustment. Yet for some reason I just never wanted to compromise towards anything less than a beautiful blog(preferably pre-filled with excellent posts). I think I got hung up on the attachment to something so personal that I forgot that's not how progress is made. I forgot that the obstacle is the way, and that worse is better, and that practice makes perfect.
+
+Welcome to my new blog, "Your awesome title." Hosted on Github pages, using the default Jekyll theme. No extra bells and whistles. I want to make this blog personal, and there's a lot more character in the imperfections than there is in the polish. So, for anyone reading this post pre-perfection, I hope you stick around and watch it unfold. I'm starting with a post about starting, and it already feels like a huge step forward.
+
