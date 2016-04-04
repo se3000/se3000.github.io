@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Editing"
+date:   2016-04-03 20:46:20
+---
+I've been updating my previous posts as I write them, and not exactly annotating the edits as I go. I imagine in traditional journalism, this is frowned upon, as I always regularly see updates and edits recorded at the bottom of an article or even noted inline.
+
+But this is a personal blog, and as I've discussed before I write more for myself than for others. Additionally, since it might not be immediately clear, I use Github Pages and Jekyll to power my blog. Updates and annotations can always be seen [here](https://github.com/se3000/se3000.github.io). Additionally, I don't really have an editting process.
+
+Jekyll, the tool I use to manage the blog, is pretty much a code base. So, I write these posts using Vim which doesn't have a spell checker. (It could, but that would be annoying every other time I was using crazy variable names...) Due to the limitations that come with Vim and Git, I tend to treat the whole blog like a code base. As with code, this is expected to live, and grow, and change. My process is that when I get around to writing another post, I go back and fix up the last post I wrote. Especially because these posts always end up longer than expected, often by the time I get to the end I don't have the time to go back and edit it well. But, the deeper down a blog post is, the less likely it is to change, especially to change dramatically.
+
+To be clear though, it's not always touch ups. For example the last post I wrote was a record review, with some extra thoughts attached. I spend a bit of time fixing up the text, and then at the end with a swift impulsive decision I dropped the overall rating from an 8.8 to a 7.7. While writing this, I dropped it again to 7.4. I think it's stabilizing around where the rating actually belongs.
+
+Going through this process makes me appreciate the struggle that professional reviewers must deal with. They have a short amount of time to evaluate a piece of art with a long term view. Seeing past hype is not easy, additionally getting excited about something new is easy to do and will taint your initial view. IMDb has recognized the trend of "[high initial vote](http://www.imdb.com/help/show_leaf?highinitialvote)." I've even heard of(but can't find documentation) review aggregators that put a higher weight on reviews that come late than reviews that happen while the subject is still fresh.
+
+I've certainly caught myself suffering from that. Like I said, the changes are documented in git. Luckily, I'm not a professional reviewer. I'm more interested in giving an acccurate view to a friend that shows up curious about my thoughts, then at documenting my skill of writing long term accurate reviews. As much as possible I'd like to make this blog a living breathing testament to my views. I'm not saying I won't ever mark edits, but unless there's a good reason to, than just appreciate this as the conversation I would have with myself at the time.

@@ -17,4 +17,4 @@ Still, Sioux Falls stands out beyond their influences. Rot Forever is a big albu
 
 Lyrically, the album is hard to decipher but between the shouing and whispering, the topics I can make out resonate with me. Songs range from trashy romance stories, watching your friends grow old, your team losing the superbowl, and of course the pain of dinosaurs dying. I feel like I've been waiting since college to have an album like this. One where I feel like I was there, not yearning for some cool music from the people that were cool before me. Rot Forever delivers that for me, and while it may not go down as one of the all time greats, 3 days in it already feels intimate and real.
 
-## 7.7
+## 7.4
