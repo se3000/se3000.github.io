@@ -1,0 +1,16 @@
+---
+layout: post
+title: Reset Day
+date: 2016-11-11 11:11:11
+---
+November 11th: [Veterans Day](https://en.wikipedia.org/wiki/Veterans_Day). [Singles' Day](https://en.wikipedia.org/wiki/Singles%27_Day). Binary Reset Day?
+
+For the non-technical among us, any series of consecutive ones in binary notation means that adding one to that number, will flip all the ones to zeros. Itis kind of equivalent to watching the odometer on a car pass from 99,999 to 100,000. It's fun, even if it doesn't hold any real significance, and the date 11-11 means even less as it is not actually a binary notation. But these days I find myself looking for a reason to reset.
+
+This November 11th is just a few long days since Trump defied [almost](https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html) [all](http://www.huffingtonpost.com/entry/donald-trump-racist-examples_us_56d47177e4b03260bf777e83) [expectations](http://www.nytimes.com/2016/10/02/us/politics/donald-trump-taxes.html), and went from GOP primary punchline to President-elect. Wednesday morning found me rethinking my attitude towards a Trump presidency, wondering instead, "What good could come of this?"
+
+Unfortunately, the answers that immediately sprang to mind were kind of selfish, like good for me but seemingly bad for the country. Like maybe I'll pay less in taxes, not sure I love the tradeoff but there is an upside.
+
+Another unfortunate benefit is that the future of cryptography and decentralization seems brightest when the world's outlook looks dimmest. With dwindling trust in large central authorities, and increased concern of surveilance and control, it makes sense that there will be decreased interest in technologies that empower such authorities. For example, Bitcoin jumped thirty dollars over the course of the four hours when it became clear that Trump would win. Looking forward, I believe similar, if slower adoption will affect other decentralized and/or privacy-preserving tools. There's [Signal](https://whispersystems.org) for encrypted communincation, [Ethereum](https://www.ethereum.org/) and soon [Golem](https://golem.network/) for decentralized computation, [IPFS](http://ipfs.io/) among others for decentralized storage, and of course Bitcoin for value exchange. The ecosystem is growing, as are the reasons to turn to it.
+
+Blockchain preachiness aside, I think the real opportunity here is a chance to learn more about my country. I'm a proud American, but I find myself struggling to empathize with anyone that would vote for Trump. When trying to understand who was voting for him, I found myself toeing the party line, repeating rhetoric about targeting uneducated whites. There's no way that can explain Trump's election. There are undoubtably many smart people supporting Trump, for non-selfish reasons. This is a chance to see what I was missing, and hope I was wrong. So, I'm writing the post to help myself clear the air, and try to let go of any preoccupations I may have about what direction we as a country are headed in. In order to really learn, I need to reset and approach this next term with an open mind.
