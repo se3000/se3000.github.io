@@ -1,0 +1,28 @@
+---
+layout: post
+title:  The Sincerity of Slop
+date:   2016-02-21 16:16:35
+---
+
+Glad we did our research, but kicking myself for not doing it sooner, as ConEd seems to have changed their site in the couple weeks since we had this conversation, getting rid of their list of renewable energy ESCOs.
+
+Some backstory on Green Mountain Energy: Sold from BP and other shareholders to NRG in 2010, they are a behemoth in the deregulated energy markets. They were the first name to come up when searching for generic renewable energy providers in New York. When you search for GME, you pretty quickly come across links about how they are a [scam](http://www.brooklynsolarworks.com/blog/2015/8/17/7cgj8sf9j336v1916aqp2tmeu3c8m6) both [environmentally](https://grist.org/article/2010-11-23-how-green-is-green-mountain-energy/) and [financially](https://www.yelp.com/biz/green-mountain-energy-co-austin). To be fair, [it's not all bad press](http://www.newyorker.com/magazine/2015/06/29/power-to-the-people), but I have beef with the article that I'll leave out of the email. In short, it seems like GME uses mostly non-renewable sources, with minimal effect on carbon emissions and above average sulfur(also greenhouse) emissions. 
+
+TL;DR: GME is a wolf in sheep's clothing.
+
+Some crowd sourced knowledge on renewable energy in NYC:
+https://www.reddit.com/r/nyc/comments/216biz/hey_nyc_has_anyone_tried_using_the_coned/
+https://www.reddit.com/r/nyc/comments/1ztbiu/does_anyone_use_an_esco_besides_coned_in_manhattan/ (insightful first comment)
+
+
+My answer:
+Constellation has a 100% green energy rate, locked in for 12 months, that beats even GME(8.49 vs 8.90 per kWh(w/o taxes)). It'd be a similar set up to Fios where we'd have to re-evaluate in a year. Sign up via [ChooseEnergy](https://www.chooseenergy.com/shop/residential/electricity/NY/11101/consolidated-edison-co-ny-electricity/), which has been the single most helpful resource so far, making the decision relatively simple(ConEd's new site is terrible).
+
+Hassle free answer:
+ConEd allows you to pay 1 cent above their floating kWh rate, and buy green energy right from them. Seems like the least hassle, which I'd be up for but probably want to look at an energy bill or two of ours to get an idea. Also worth noting, at the bottom of [this page](https://www.conedsolutions.com/CES_Enroll/?type=R&state=NY&utility=CER&area=New%20York%20City) ConEd notes that this service is actually just run by Constellation.
+
+
+Alternatives:
+Spark Energy seems pretty comparable to Constellation, but a little more expensive. Pretty much every utility company has terrible reviews, I think the indicator for acceptableness of utilities is whether people [actively protest](http://www.boycottgreenmountain.com/) them or not. If Constellation turns out to suck, Spark seems decent.
+
+[Starion](http://www.starionenergy.com/service-areas/new-york/) is recommended by Brooklyn Solar Works in their GME article above, unclear why(are they related? self-promotion?), but Starion makes you call them to get quotes.
