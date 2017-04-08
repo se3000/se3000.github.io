@@ -41,3 +41,7 @@ https://www.goodreads.com/quotes/353571-a-foolish-consistency-is-the-hobgoblin-o
 https://www.goodreads.com/quotes/10805-if-a-cluttered-desk-is-a-sign-of-a-cluttered
 
 https://www.goodreads.com/quotes/8206-do-i-contradict-myself-very-well-then-i-contradict-myself
+
+John Cage vs Bach in G.E.B. : sloppiness requires more context, is less self contained. Better for future generations? Probably easier, but maybe not better. Understanding a problem and learning from it requires understanding the tradeoffs. The best history books don't just give you a conflict free story from beginning to end, but examine the different sides and the different tradeoffs. Does this mean mess is better for posterity? No, but I think it is less of a deterent than it may initially appear.
+
+anti Marie Kondo
